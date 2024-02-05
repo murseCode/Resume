@@ -30,6 +30,10 @@ p {
     color: #303030;
 }
 
+.details {
+    color: #000;
+}
+
 .wrapper {
     display: grid;
     grid-template-columns: repeat(10,1fr);
